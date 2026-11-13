@@ -1,0 +1,9 @@
+Instruções de teste para praticar Git
+
+1. Execute git status para consultar o estado dos arquivos.
+2. Adicione uma frase de teste ao final deste arquivo e salve.
+3. Execute git diff para visualizar as alterações em arquivos já rastreados.
+4. Execute git add script.txt para preparar o arquivo para o commit.
+5. Execute git diff --cached para revisar o conteúdo preparado.
+6. Execute git commit -m "Adiciona instruções de teste" para registrar as alterações.
+7. Execute git log --oneline para consultar o histórico de commits.
